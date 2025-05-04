@@ -101,5 +101,6 @@
 ---
 
 <p align="center">
-  ⚡ *“Turning hardware dreams into digital reality!”*
+  ⚡ *“Turning hardware dreams into digital reality!”*<br>
+  🌟 *“As long as I live, there are infinite chances.”*
 </p>
