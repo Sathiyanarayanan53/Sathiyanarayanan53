@@ -1,103 +1,105 @@
-<!-- Profile README for Sathiyanarayanan -->
+<!-- ✨ Super Cool GitHub Profile README ✨ -->
+
+<h1 align="center">Hi 👋, I'm Sathiyanarayanan</h1>
+<h3 align="center">🚀 Electronics & Fullstack Enthusiast | IoT ⚙️ | VLSI 💥 | Web Dev 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F7A7A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathiyanarayanan;Electronics+%26+Fullstack+Enthusiast;IoT+%7C+VLSI+%7C+Web+Dev+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCB6&center=true&vCenter=true&width=450&lines=Turning+Ideas+Into+Reality;Building+Smart+IoT+Systems;Optimizing+VLSI+Designs;Crafting+Cool+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:sathiyaram5311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sathiyanarayanan5311"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sathiyanarayanan53"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Phone-6382503809-brightgreen?style=flat-square&logo=whatsapp&logoColor=white"/>
+  <a href="mailto:sathiyaram5311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sathiyanarayanan5311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sathiyanarayanan53"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍🎓 Education
+### 📚 About Me
 
-- **SASTRA Deemed University, Thanjavur**  
-  B.Tech, Electronics & Communication Engineering  
-  _Expected May 2025_ &nbsp;|&nbsp; CGPA: 6.30/10.0
-
-- **Sri Ramakrishna Boys HSS**  
-  Higher Secondary, May 2021 &nbsp;|&nbsp; 85.1%
-
-- **Immaculate Matric School**  
-  Secondary, May 2019 &nbsp;|&nbsp; 81.4%
+- 🎓 B.Tech, **Electronics & Communication Engineering**, SASTRA University (Graduating 2025)  
+- ⚙️ Passionate about **IoT, VLSI Design, Full Stack Web Development**  
+- 🌱 Currently learning **Advanced JavaScript, React, FPGA Optimization**  
+- 💬 Ask me about **Web Dev, VHDL/Verilog, IoT Systems**
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,java" height="32"/>
-  <img src="https://skillicons.dev/icons?i=verilog" height="32"/>
-  <img src="https://img.shields.io/badge/VHDL-0175C2?style=flat&logo=verilog&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/FPGA-009688?style=flat&logo=fpga&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=flat&logo=espressif&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/ModelSim-007ACC?style=flat&logo=siemens&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/HSPICE-FF6F00?style=flat&logo=spice&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/DSP-4CAF50?style=flat&logo=mathworks&logoColor=white" height="28"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,react" height="35"/>
+  <img src="https://img.shields.io/badge/VHDL-0175C2?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-009688?style=for-the-badge&logo=fpga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logo=siemens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HSPICE-FF6F00?style=for-the-badge&logo=spice&logoColor=white"/>
 </p>
-
-- **Soft Skills:** Problem-Solving, Teamwork, Analytical Thinking
-
----
-
-### 📚 Coursework
-
-- Introduction to Web Development
-- VLSI Design Fundamentals
-- Full Stack Development (Clever Academy, Apr–Jul 2024)
 
 ---
 
 ### 💼 Experience
 
-**Ashok Leyland, Hosur, Tamil Nadu**  
-*R&D In-Plant Training | Jun–Jul 2024*
-- Optimized testing with MATLAB, cut time 10%.
-- Calibrated ECU for EVs with CAN bus.
+- **Ashok Leyland (R&D In-Plant Training)**  
+  → Optimized MATLAB test scripts, reduced runtime by 10%  
+  → Calibrated ECU for EVs using CAN bus
 
 ---
 
 ### 🚀 Projects
 
-**[Lightweight IoT Encryption (Simon & Simeck)](https://github.com/Sathiyanarayanan53/iot-encryption)**  
-*Jan–Apr 2025*
-- Designed FPGA algorithms, cut power 15%.
-- Built JavaScript interface.
-- Tech: Verilog, Vivado, ModelSim, JavaScript
+- 🔐 **[Lightweight IoT Encryption (Simon & Simeck)](https://github.com/Sathiyanarayanan53/iot-encryption)**  
+  → FPGA design, 15% lower power, JS frontend interface  
+  → Tech: Verilog, Vivado, ModelSim, JavaScript
 
-**VLSI D Flip-Flop Optimization**  
-*Sep–Dec 2023*
-- Designed efficient circuit, improved 12%.
-- Created Java simulation tool.
-- Tech: ModelSim, LTSPICE, Java
+- ⚡ **VLSI D Flip-Flop Optimization**  
+  → 12% better performance, Java simulation tool  
+  → Tech: ModelSim, LTSPICE, Java
+
+---
+
+### 📖 Coursework
+
+- Introduction to Web Development  
+- VLSI Design Fundamentals  
+- Full Stack Development (Clever Academy, Apr–Jul 2024)
 
 ---
 
 ### 🏆 Achievements
 
-- 1<sup>st</sup>/50+ VLSI Quiz, SASTRA (2023)
-- Distinction, IEEE FPGA Workshop (2024)
-
----
-
-### 📈 Professional Development
-
-- IEEE Webinars: Low-Power VLSI, IoT (2024)
+- 🥇 1st Place / 50+ → VLSI Quiz, SASTRA (2023)  
+- 🎖️ IEEE FPGA Workshop – Distinction (2024)
 
 ---
 
 ### 🎯 Interests
 
-IoT Systems, VLSI Design, Full-Stack Web Development
+- IoT Systems  
+- Low-Power VLSI Design  
+- Full Stack Web Development
 
 ---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathiyanarayanan53&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiyanarayanan53&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:sathiyaram5311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sathiyanarayanan5311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sathiyanarayanan53"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ *“Turning hardware dreams into digital reality!”*
 </p>
