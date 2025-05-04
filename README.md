@@ -91,9 +91,12 @@
 ---
 
 <!-- QUOTE SECTION (NO ANONYMOUS) -->
+---
 
->  ### ⚡ **_“Turning hardware dreams into digital reality!”_**
->
-> ### 🌟 **_“As long as I live, there are infinite chances.”_**
+<p align="center">
+  <strong>⚡ “Turning hardware dreams into digital reality!”</strong><br>
+  <strong>🌟 “As long as I live, there are infinite chances.”</strong>
+</p>
 
 ---
+
