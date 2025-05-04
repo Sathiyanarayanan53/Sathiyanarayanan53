@@ -1,7 +1,7 @@
 <!-- Profile README for Sathiyanarayanan -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F7A7A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathiyanarayanan;Electronics+%26+Fullstack+Enthusiast;IoT+%7C+VLSI+%7C+Web+Dev+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F7A7A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathiyanarayanan ;Electronics+%26+Fullstack+Enthusiast;IoT+%7C+VLSI+%7C+Web+Dev+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
