@@ -1,107 +1,103 @@
-\documentclass[a4paper,10pt]{article}
-\usepackage[a4paper, top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
-\usepackage{hyperref}
-\usepackage{enumitem}
-\usepackage{parskip}
-\usepackage{fontawesome5}
-\usepackage{needspace}
+<!-- Profile README for Sathiyanarayanan -->
 
-% Hyperlink setup
-\hypersetup{colorlinks=true, linkcolor=black, urlcolor=blue}
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F7A7A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sathiyanarayanan;Electronics+%26+Fullstack+Enthusiast;IoT+%7C+VLSI+%7C+Web+Dev+Lover" alt="Typing SVG" />
+</p>
 
-% Custom section style (full width, neat alignment)
-\newcommand{\sectiontitle}[1]{%
-  \vspace{1pt}%
-  \noindent\textbf{\large #1} \\[-2pt]
-  \noindent\rule{\linewidth}{0.5pt}%
-  \vspace{1pt}%
-}
+<p align="center">
+  <a href="mailto:sathiyaram5311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sathiyanarayanan5311"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sathiyanarayanan53"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Phone-6382503809-brightgreen?style=flat-square&logo=whatsapp&logoColor=white"/>
+</p>
 
-\renewcommand{\baselinestretch}{1.01}
-\setlength{\parskip}{1pt}
+---
 
-\begin{document}
+### 👨‍🎓 Education
 
-% TITLE AND CONTACT INFO
-\begin{center}
-  {\Huge \textbf{SATHIYANARAYANAN}} \\[4pt]
-  \href{mailto:sathiyaram5311@gmail.com}{\faEnvelope\,sathiyaram5311@gmail.com} \quad
-  \faPhone\,+91 6382503809 \quad
-  \href{https://www.linkedin.com/in/sathiyanarayanan5311}{\faLinkedin\,LinkedIn} \quad
-  \href{https://github.com/Sathiyanarayanan53}{\faGithub\,GitHub}
-\end{center}
-\vspace{2mm}
+- **SASTRA Deemed University, Thanjavur**  
+  B.Tech, Electronics & Communication Engineering  
+  _Expected May 2025_ &nbsp;|&nbsp; CGPA: 6.30/10.0
 
-% EDUCATION
-\sectiontitle{Education}
-\textbf{SASTRA Deemed University}, Thanjavur, India \\
-B.Tech, Electronics \& Communication Engineering \\
-Expected May 2025\hfill CGPA: 6.30/10.0 \\
-\textbf{Sri Ramakrishna Boys HSS}, India \\
-Higher Secondary, May 2021\hfill 85.1\% \\
-\textbf{Immaculate Matric School}, India \\
-Secondary, May 2019\hfill 81.4\%
+- **Sri Ramakrishna Boys HSS**  
+  Higher Secondary, May 2021 &nbsp;|&nbsp; 85.1%
 
-% SKILLS
-\sectiontitle{Skills}
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item \textbf{Programming:} JavaScript, HTML/CSS, Java, Verilog, VHDL
-  \item \textbf{Hardware:} VLSI, FPGA (Vivado), Arduino, ESP32, JTAG
-  \item \textbf{Tools:} ModelSim, HSPICE, DSP
-  \item \textbf{Soft Skills:} Problem-Solving, Teamwork, Analytical Thinking
-\end{itemize}
+- **Immaculate Matric School**  
+  Secondary, May 2019 &nbsp;|&nbsp; 81.4%
 
-% COURSEWORK
-\sectiontitle{Coursework}
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item Introduction to Web Development
-  \item VLSI Design Fundamentals
-  \item Full Stack Development (Clever Academy, Apr--Jul 2024)
-\end{itemize}
+---
 
-% EXPERIENCE
-\sectiontitle{Experience}
-\textbf{Ashok Leyland}, Hosur, Tamil Nadu, India \\
-R\&D In-Plant Training \hfill Jun--Jul 2024
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item Optimized testing with MATLAB, cut time 10\%.
-  \item Calibrated ECU for EVs with CAN bus.
-\end{itemize}
+### 🛠️ Skills
 
-% PROJECTS
-\sectiontitle{Projects}
-\textbf{Lightweight IoT Encryption (Simon \& Simeck)} \\
-Jan--Apr 2025 \hfill \href{https://github.com/Sathiyanarayanan53/iot-encryption}{\faGithub\,GitHub}
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item Designed FPGA algorithms, cut power 15\%.
-  \item Built JavaScript interface.
-  \item Tech: Verilog, Vivado, ModelSim, JavaScript
-\end{itemize}
-\textbf{VLSI D Flip-Flop Optimization} \\
-Sep--Dec 2023
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item Designed efficient circuit, improved 12\%.
-  \item Created Java simulation tool.
-  \item Tech: ModelSim, HSPICE, Java
-\end{itemize}
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java" height="32"/>
+  <img src="https://skillicons.dev/icons?i=verilog" height="32"/>
+  <img src="https://img.shields.io/badge/VHDL-0175C2?style=flat&logo=verilog&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/FPGA-009688?style=flat&logo=fpga&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=flat&logo=espressif&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/ModelSim-007ACC?style=flat&logo=siemens&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/HSPICE-FF6F00?style=flat&logo=spice&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/DSP-4CAF50?style=flat&logo=mathworks&logoColor=white" height="28"/>
+</p>
 
-% ACHIEVEMENTS
-\sectiontitle{Achievements}
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item 1\textsuperscript{st}/50+ VLSI Quiz, SASTRA (2023)
-  \item Distinction, IEEE FPGA Workshop (2024)
-\end{itemize}
+- **Soft Skills:** Problem-Solving, Teamwork, Analytical Thinking
 
-% PROFESSIONAL DEVELOPMENT
-\needspace{2\baselineskip}
-\sectiontitle{Professional Development}
-\begin{itemize}[left=0pt, label=--, noitemsep, topsep=0pt, partopsep=0pt]
-  \item IEEE Webinars: Low-Power VLSI, IoT (2024)
-\end{itemize}
+---
 
-% INTERESTS
-\needspace{2\baselineskip}
-\sectiontitle{Interests}
+### 📚 Coursework
+
+- Introduction to Web Development
+- VLSI Design Fundamentals
+- Full Stack Development (Clever Academy, Apr–Jul 2024)
+
+---
+
+### 💼 Experience
+
+**Ashok Leyland, Hosur, Tamil Nadu**  
+*R&D In-Plant Training | Jun–Jul 2024*
+- Optimized testing with MATLAB, cut time 10%.
+- Calibrated ECU for EVs with CAN bus.
+
+---
+
+### 🚀 Projects
+
+**[Lightweight IoT Encryption (Simon & Simeck)](https://github.com/Sathiyanarayanan53/iot-encryption)**  
+*Jan–Apr 2025*
+- Designed FPGA algorithms, cut power 15%.
+- Built JavaScript interface.
+- Tech: Verilog, Vivado, ModelSim, JavaScript
+
+**VLSI D Flip-Flop Optimization**  
+*Sep–Dec 2023*
+- Designed efficient circuit, improved 12%.
+- Created Java simulation tool.
+- Tech: ModelSim, LTSPICE, Java
+
+---
+
+### 🏆 Achievements
+
+- 1<sup>st</sup>/50+ VLSI Quiz, SASTRA (2023)
+- Distinction, IEEE FPGA Workshop (2024)
+
+---
+
+### 📈 Professional Development
+
+- IEEE Webinars: Low-Power VLSI, IoT (2024)
+
+---
+
+### 🎯 Interests
+
 IoT Systems, VLSI Design, Full-Stack Web Development
 
-\end{document}
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathiyanarayanan53&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiyanarayanan53&layout=compact&theme=radical" height="150"/>
+</p>
